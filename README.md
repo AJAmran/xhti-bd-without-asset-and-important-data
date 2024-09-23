@@ -1,8 +1,5 @@
 # Xinxian Hospitality Training Institute Platform
 
-[![Live Link](https://img.shields.io/badge/Live%20Link-Click%20Here-brightgreen)][(https://your-live-link.com](https://xhtibd.com/))  
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Click%20Here-blue)](https://github.com/[your-repo-link](https://github.com/AJAmran/xhti-bd-without-asset-and-important-data.git))
-
 ## Project Description
 
 Welcome to the Xinxian Hospitality Training Institute (XHTI) platform! This web application was developed for a government-approved hospitality institute in Bangladesh, designed to streamline course registration, student management, and information dissemination. Our goal is to provide a seamless experience for both students and administrators.
