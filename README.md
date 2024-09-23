@@ -1,7 +1,7 @@
 # Xinxian Hospitality Training Institute Platform
 
-[![Live Link](https://img.shields.io/badge/Live%20Link-Click%20Here-brightgreen)](https://your-live-link.com)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Click%20Here-blue)](https://github.com/your-repo-link)
+[![Live Link](https://img.shields.io/badge/Live%20Link-Click%20Here-brightgreen)][(https://your-live-link.com](https://xhtibd.com/))  
+[![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Click%20Here-blue)](https://github.com/[your-repo-link](https://github.com/AJAmran/xhti-bd-without-asset-and-important-data.git))
 
 ## Project Description
 
